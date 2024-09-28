@@ -54,8 +54,8 @@ Therefore, the tax for this bracket is 1000. The total tax is the sum of the tax
 */
 //-------------------------------------------------------------------------------------------------------------------------------------------
 
-//Time = 
-//Space = 
+//Time = O(n)
+//Space = O(1)
 
 import java.util.ArrayList;
 import java.util.Arrays;
